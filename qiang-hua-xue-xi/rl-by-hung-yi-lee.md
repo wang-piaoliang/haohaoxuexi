@@ -23,33 +23,28 @@ EG: AlphaGo: Supervised Learning + Reinforcement Learning
 
 ### Learning a Actor
 
- ![](../.gitbook/assets/image%20%2816%29.png) 
+ <img src="../.gitbook/assets/image%20%2816%29.png" style="zoom:80%;" /> 
 
 #### 1. NN As Actor 
 
-#### ![](../.gitbook/assets/image%20%289%29.png) 
+#### <img src="../.gitbook/assets/image%20%289%29.png" style="zoom: 80%;" /> 
 
-![](../.gitbook/assets/image%20%2810%29.png) 
+<img src="../.gitbook/assets/image%20%2810%29.png" style="zoom:67%;" /> 
 
 #### 2. Goodness of Actor 
 
-#### ![](../.gitbook/assets/image%20%283%29.png) 
+#### <img src="../.gitbook/assets/image%20%283%29.png" style="zoom:80%;" /> 
 
-![](../.gitbook/assets/image%20%288%29.png) 
+<img src="../.gitbook/assets/image%20%288%29.png" style="zoom:80%;" /> 
 
 #### 3. Pick the best function
 
-![](../.gitbook/assets/image%20%2818%29.png) 
+<img src="../.gitbook/assets/image%20%2818%29.png" style="zoom: 67%;" /> 
 
 
 
 ### Learning a Critic
 
-![](../.gitbook/assets/image%20%284%29.png) 
+<img src="../.gitbook/assets/image%20%284%29.png" style="zoom:67%;" /> 
 
-
-
-
-
-#### 
 
