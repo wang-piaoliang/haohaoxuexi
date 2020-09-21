@@ -23,32 +23,28 @@ EG: AlphaGo: Supervised Learning + Reinforcement Learning
 
 ### Learning a Actor
 
- <img src="https://github.com/wang-piaoliang/haohaoxuexi/blob/master/.gitbook/assets/image%20%2816%29.png" style="zoom:80%;" /> 
+<img src="https://github.com/wang-piaoliang/gitbookimagerepo/master/haohaoxuexi/image%20(16).png" alt="img" style="zoom: 67%;" /> 
 
 #### 1. NN As Actor 
 
-<img src="../.gitbook/assets/image%20%289%29.png" alt="PNG" style="zoom:50%;" />
+#### <img src="https://github.com/wang-piaoliang/gitbookimagerepo/master/haohaoxuexi/image%20(9).png" style="zoom: 80%;" /> 
 
-
-
-#### <img src="../.gitbook/assets/image%20%289%29.png" style="zoom: 80%;" /> 
-
-<img src="../.gitbook/assets/image%20%2810%29.png" style="zoom:67%;" /> 
+<img src="https://github.com/wang-piaoliang/gitbookimagerepo/master/haohaoxuexi/image%20(10).png" style="zoom:67%;" /> 
 
 #### 2. Goodness of Actor 
 
-#### <img src="../.gitbook/assets/image%20%283%29.png" style="zoom:80%;" /> 
+#### <img src="https://github.com/wang-piaoliang/gitbookimagerepo/master/haohaoxuexi/image%20(3).png" style="zoom:80%;" /> 
 
-<img src="../.gitbook/assets/image%20%288%29.png" style="zoom:80%;" /> 
+<img src="https://github.com/wang-piaoliang/gitbookimagerepo/master/haohaoxuexi/image%20(8).png" style="zoom:80%;" /> 
 
 #### 3. Pick the best function
 
-<img src="../.gitbook/assets/image%20%2818%29.png" style="zoom: 67%;" /> 
+<img src="https://github.com/wang-piaoliang/gitbookimagerepo/master/haohaoxuexi/image%20(18).png" style="zoom: 67%;" /> 
 
 
 
 ### Learning a Critic
 
-<img src="../.gitbook/assets/image%20%284%29.png" style="zoom:67%;" /> 
+<img src="https://github.com/wang-piaoliang/gitbookimagerepo/master/haohaoxuexi/image%20(4).png" style="zoom:67%;" /> 
 
 
