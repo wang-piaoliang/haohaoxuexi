@@ -23,7 +23,7 @@ EG: AlphaGo: Supervised Learning + Reinforcement Learning
 
 ### Learning a Actor
 
-<img src="https://raw.githubusercontent.com/wang-piaoliang/gitbookimagerepo/master/haohaoxuexi/image-20200921170011430.png" width="340"/> 
+<img src="https://raw.githubusercontent.com/wang-piaoliang/gitbookimagerepo/master/haohaoxuexi/image-20200921170011430.png" width="140" > 
 
 #### 1. NN As Actor 
 
