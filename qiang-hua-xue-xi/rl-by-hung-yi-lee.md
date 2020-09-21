@@ -4,14 +4,14 @@ description: 李老师的强化学习课程笔记
 
 # RL by Hung-yi Lee
 
-### 基础知识
+## 基础知识
 
-#### Difficulties of Reinforcement Learning
+### Difficulties of Reinforcement Learning
 
-1.  Reward Delay
+1. Reward Delay
 2. Agent's action affect the subsequent data it receives
 
-#### **Learning Approches**
+### **Learning Approches**
 
 1. Policy-based: Learning an Actor
 2. Value-based: Leanring a Critic
@@ -19,32 +19,27 @@ description: 李老师的强化学习课程笔记
 
 EG: AlphaGo: Supervised Learning + Reinforcement Learning
 
+## Learning a Actor
 
+![](https://raw.githubusercontent.com/wang-piaoliang/gitbookimagerepo/master/haohaoxuexi/image-20200921170011430.png)
 
-### Learning a Actor
+### 1. NN As Actor
 
-<img src="https://raw.githubusercontent.com/wang-piaoliang/gitbookimagerepo/master/haohaoxuexi/image-20200921170011430.png" width="450" > 
+![](https://raw.githubusercontent.com/wang-piaoliang/gitbookimagerepo/master/haohaoxuexi/image-20200921170045645.png)
 
-#### 1. NN As Actor 
+![](https://raw.githubusercontent.com/wang-piaoliang/gitbookimagerepo/master/haohaoxuexi/image-20200921170410646.png)
 
-<img src="https://raw.githubusercontent.com/wang-piaoliang/gitbookimagerepo/master/haohaoxuexi/image-20200921170045645.png" width="450" />
+### 2. Goodness of Actor
 
-####  
+![](https://raw.githubusercontent.com/wang-piaoliang/gitbookimagerepo/master/haohaoxuexi/image-20200921170600541.png)
 
-<img src="https://raw.githubusercontent.com/wang-piaoliang/gitbookimagerepo/master/haohaoxuexi/image-20200921170410646.png" width="450" /> 
+![](https://raw.githubusercontent.com/wang-piaoliang/gitbookimagerepo/master/haohaoxuexi/image-20200921170640392.png)
 
-#### 2. Goodness of Actor 
+### 3. Pick the best function
 
-<img src="https://raw.githubusercontent.com/wang-piaoliang/gitbookimagerepo/master/haohaoxuexi/image-20200921170600541.png" width="450" />
+![](https://raw.githubusercontent.com/wang-piaoliang/gitbookimagerepo/master/haohaoxuexi/image-20200921170723046.png)
 
-<img src="https://raw.githubusercontent.com/wang-piaoliang/gitbookimagerepo/master/haohaoxuexi/image-20200921170640392.png" width="450" />
+## Learning a Critic
 
-#### 3. Pick the best function
-
-<img src="https://raw.githubusercontent.com/wang-piaoliang/gitbookimagerepo/master/haohaoxuexi/image-20200921170723046.png" width="450" />
-
-### Learning a Critic
-
-<img src="https://raw.githubusercontent.com/wang-piaoliang/gitbookimagerepo/master/haohaoxuexi/image-20200921170749675.png" width="450" />
-
+![](https://raw.githubusercontent.com/wang-piaoliang/gitbookimagerepo/master/haohaoxuexi/image-20200921170749675.png)
 
