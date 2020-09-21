@@ -45,6 +45,6 @@ EG: AlphaGo: Supervised Learning + Reinforcement Learning
 
 ### Learning a Critic
 
-<img src="https://raw.githubusercontent.com/wang-piaoliang/gitbookimagerepo/master/haohaoxuexi/image-20200921170749675.png" style="zoom:50%;" />
+<img src="https://raw.githubusercontent.com/wang-piaoliang/gitbookimagerepo/master/haohaoxuexi/image-20200921170749675.png" width="450" />
 
 
