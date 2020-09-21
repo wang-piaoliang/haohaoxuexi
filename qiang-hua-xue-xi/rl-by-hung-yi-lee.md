@@ -23,28 +23,30 @@ EG: AlphaGo: Supervised Learning + Reinforcement Learning
 
 ### Learning a Actor
 
-<img src="https://github.com/wang-piaoliang/gitbookimagerepo/master/haohaoxuexi/image%20(16).png" alt="img" style="zoom: 67%;" /> 
+<img src="https://raw.githubusercontent.com/wang-piaoliang/gitbookimagerepo/master/haohaoxuexi/image-20200921170011430.png" alt="image-20200921170011430" style="zoom:50%;" /> 
 
 #### 1. NN As Actor 
 
-#### <img src="https://github.com/wang-piaoliang/gitbookimagerepo/master/haohaoxuexi/image%20(9).png" style="zoom: 80%;" /> 
+<img src="https://raw.githubusercontent.com/wang-piaoliang/gitbookimagerepo/master/haohaoxuexi/image-20200921170045645.png" alt="image-20200921170045645" style="zoom: 33%;" />
 
-<img src="https://github.com/wang-piaoliang/gitbookimagerepo/master/haohaoxuexi/image%20(10).png" style="zoom:67%;" /> 
+![image-20200921170519149](https://raw.githubusercontent.com/wang-piaoliang/gitbookimagerepo/master/haohaoxuexi/image-20200921170519149.png)
+
+####  
+
+<img src="https://raw.githubusercontent.com/wang-piaoliang/gitbookimagerepo/master/haohaoxuexi/image-20200921170410646.png" alt="image-20200921170410646" style="zoom: 50%;" /> 
 
 #### 2. Goodness of Actor 
 
-#### <img src="https://github.com/wang-piaoliang/gitbookimagerepo/master/haohaoxuexi/image%20(3).png" style="zoom:80%;" /> 
+<img src="https://raw.githubusercontent.com/wang-piaoliang/gitbookimagerepo/master/haohaoxuexi/image-20200921170600541.png" alt="image-20200921170600541" style="zoom:50%;" />
 
-<img src="https://github.com/wang-piaoliang/gitbookimagerepo/master/haohaoxuexi/image%20(8).png" style="zoom:80%;" /> 
+<img src="https://raw.githubusercontent.com/wang-piaoliang/gitbookimagerepo/master/haohaoxuexi/image-20200921170640392.png" alt="image-20200921170640392" style="zoom:50%;" />
 
 #### 3. Pick the best function
 
-<img src="https://github.com/wang-piaoliang/gitbookimagerepo/master/haohaoxuexi/image%20(18).png" style="zoom: 67%;" /> 
-
-
+<img src="https://raw.githubusercontent.com/wang-piaoliang/gitbookimagerepo/master/haohaoxuexi/image-20200921170723046.png" alt="image-20200921170723046" style="zoom:50%;" />
 
 ### Learning a Critic
 
-<img src="https://github.com/wang-piaoliang/gitbookimagerepo/master/haohaoxuexi/image%20(4).png" style="zoom:67%;" /> 
+<img src="https://raw.githubusercontent.com/wang-piaoliang/gitbookimagerepo/master/haohaoxuexi/image-20200921170749675.png" alt="image-20200921170749675" style="zoom:50%;" />
 
 
