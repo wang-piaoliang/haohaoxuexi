@@ -27,7 +27,7 @@ EG: AlphaGo: Supervised Learning + Reinforcement Learning
 
 #### 1. NN As Actor 
 
-![PNG](../.gitbook/assets/image%20%289%29.png)
+<img src="../.gitbook/assets/image%20%289%29.png" alt="PNG" style="zoom:50%;" />
 
 
 
