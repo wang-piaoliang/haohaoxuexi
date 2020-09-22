@@ -6,6 +6,10 @@
 
 * [RL by Hung-yi Lee](qiang-hua-xue-xi-1/rl-by-hung-yi-lee.md)
 
+## 👵 深度学习
+
+* [Untitled](shen-du-xue-xi/untitled.md)
+
 ## 🛒 大数据与分布式 <a id="data"></a>
 
 * [SQL基础](data/sql-ji-chu.md)
