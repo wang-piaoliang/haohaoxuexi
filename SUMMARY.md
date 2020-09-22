@@ -8,7 +8,11 @@
 
 ## 👵 深度学习
 
+* [General](shen-du-xue-xi/general.md)
 * [ML](shen-du-xue-xi/untitled.md)
+* [CNN](shen-du-xue-xi/cnn.md)
+* [NLP](shen-du-xue-xi/nlp.md)
+* [Preprocessing](shen-du-xue-xi/preprocessing.md)
 
 ## 🛒 大数据与分布式 <a id="data"></a>
 
