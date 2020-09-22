@@ -19,9 +19,9 @@ description: 李老师的强化学习课程笔记
 
 EG: AlphaGo: Supervised Learning + Reinforcement Learning
 
-### Learning a Actor
+### Learning a Actor  
 
-![](https://raw.githubusercontent.com/wang-piaoliang/gitbookimagerepo/master/haohaoxuexi/image-20200921170011430.png)
+![](../.gitbook/assets/image%20%2812%29.png)
 
 #### 1. NN As Actor
 
