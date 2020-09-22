@@ -14,6 +14,7 @@
 
 ## 🎡 Leetcode <a id="leetcode-1"></a>
 
+* [0.0 基础算法之排序算法](leetcode-1/0.0-ji-chu-suan-fa-zhi-pai-xu-suan-fa.md)
 * [1.0 重中之重的二分查找](leetcode-1/1.0-zhong-zhong-zhi-zhong-de-er-fen-cha-zhao.md)
 * [2.0 链表高频题](leetcode-1/2.0-lian-biao-gao-pin-ti.md)
 * [3.0 字符串问题](leetcode-1/3.0-zi-fu-chuan-wen-ti/README.md)
@@ -32,10 +33,6 @@
   * [10.1 数组矩阵杂题](leetcode-1/10.0-gao-pin-xi-lie-zhuan-ti/10.1-shu-zu-ju-zhen-za-ti.md)
   * [10.2 Board相关题](leetcode-1/10.0-gao-pin-xi-lie-zhuan-ti/10.2-board-xiang-guan-ti.md)
   * [10.3 NSum及股票系列](leetcode-1/10.0-gao-pin-xi-lie-zhuan-ti/10.3-nsum-ji-gu-piao-xi-lie.md)
-
----
-
-* [Review](0.0-review/README.md)
-  * [0.0 基础算法之排序算法](0.0-review/0.0-ji-chu-suan-fa-zhi-pai-xu-suan-fa.md)
-  * [20200806](0.0-review/20200806.md)
+* [Review](leetcode-1/0.0-review/README.md)
+  * [20200806](leetcode-1/0.0-review/20200806.md)
 
