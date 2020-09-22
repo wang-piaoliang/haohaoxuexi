@@ -37,7 +37,9 @@ EG: AlphaGo: Supervised Learning + Reinforcement Learning
 
 ### 3. Pick the best function
 
-![](../.gitbook/assets/image%20%2828%29.png)
+**Gradient Ascent**
+
+![](../.gitbook/assets/image%20%2837%29.png)
 
 ## Learning a Critic
 
