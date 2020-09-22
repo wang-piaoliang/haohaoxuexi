@@ -12,7 +12,9 @@
 
 [http://kubicode.me/2015/08/16/Machine%20Learning/Algorithm-Summary-for-Interview/](http://kubicode.me/2015/08/16/Machine%20Learning/Algorithm-Summary-for-Interview/)
 
-#### **LR**
+
+
+### **LR**
 
 ![Important](../.gitbook/assets/0.png) 逻辑回归的常见面试点总结
 
@@ -83,9 +85,11 @@ LR采用了最小化交叉熵或者最大化似然估计函数来作为Cost Func
 
 Logistic Regression常见面试题整理
 
-[https://zhuanlan.zhihu.com/p/34670728](https://zhuanlan.zhihu.com/p/34670728)
+{% embed url="https://zhuanlan.zhihu.com/p/34670728" %}
 
-#### **SVM**
+
+
+### **SVM**
 
 支持向量机是1995年首先提出的，它在**解决小样本、非线性及高维**模式识别中表现出许多特有的优势，并能够推广应用到函数拟合等其他机器学习问题中。
 
@@ -130,9 +134,11 @@ wTx +b = 0 ](../.gitbook/assets/10.png)
 
 SVM参数说明
 
-[https://blog.csdn.net/szlcw1/article/details/52336824](https://blog.csdn.net/szlcw1/article/details/52336824)
+{% embed url="https://blog.csdn.net/szlcw1/article/details/52336824" %}
 
-#### **Softmax**
+
+
+### **Softmax**
 
 ![Important](../.gitbook/assets/11.png) 理解softmax分类器
 
@@ -146,7 +152,9 @@ logistic函数和softmax函数
 
 [https://www.cnblogs.com/maybe2030/p/5678387.html](https://www.cnblogs.com/maybe2030/p/5678387.html)
 
-#### **评价指标**
+
+
+### **评价指标**
 
 ![Important](../.gitbook/assets/13.png) 准确率\(Accuracy\), 精确率\(Precision\), 召回率\(Recall\)和F1-Measure
 
@@ -203,7 +211,9 @@ AUC值为ROC曲线所覆盖的区域面积,显然,AUC越大,分类器分类效�
 
 MSE - RMSE - MAE - R-squared
 
-#### **RF、GBDT、XGBoost**面试级整理
+
+
+### **RF、GBDT、XGBoost**
 
 [https://blog.csdn.net/qq\_28031525/article/details/70207918](https://blog.csdn.net/qq_28031525/article/details/70207918)
 
@@ -227,7 +237,9 @@ GBDT和XGBoost区别
 
 3. XGBoost在特征粒度上并行等
 
-**随机森林**
+
+
+### **随机森林**
 
 [https://www.cnblogs.com/maybe2030/p/4585705.html](https://www.cnblogs.com/maybe2030/p/4585705.html)
 
@@ -239,9 +251,11 @@ GBDT和XGBoost区别
 
 决策树与迭代决策树（GBDT）
 
-[https://www.cnblogs.com/maybe2030/p/4734645.html](https://www.cnblogs.com/maybe2030/p/4734645.html)
+{% embed url="https://www.cnblogs.com/maybe2030/p/4734645.html" %}
 
-**GBDT**
+
+
+### **GBDT**
 
 gbdt 是通过采用加法模型（即基函数的线性组合），以及不断减小训练过程产生的残差来达到将数据分类或者回归的算法。
 
@@ -301,7 +315,9 @@ t=1
 
 非线性分类器：模型分界面可以是曲面或者超平面的组合。如：朴素贝叶斯，kNN，决策树，RF、GBDT、多层感知机、SVM（非线性核）
 
-#### **K-MEANS**
+
+
+### **K-MEANS**
 
 5 分钟带你弄懂 k-means 聚类
 
@@ -334,7 +350,7 @@ k-means 聚类
 9 
 7 ](../.gitbook/assets/20.png)
 
-#### **KNN 分类算法**
+### **KNN 分类算法**
 
 一文搞懂k-NN算法
 
@@ -358,7 +374,9 @@ K值的选取：我们一般选取一个较小的数值，通常采取 交叉验
 
 曼哈顿距离只计算水平和垂直距离，所以有维度的限制。欧氏距离可以用于任何空间距离的计算问题。
 
-**降维算法**
+
+
+### **降维算法**
 
 降维的本质是学习一个映射函数 f : x-&gt;y，其中x是原始数据点的表达，目前最多使用向量表达形式。 y是数据点映射后的低维向量表达。f可能是显式的或隐式的、线性的或非线性的。
 
