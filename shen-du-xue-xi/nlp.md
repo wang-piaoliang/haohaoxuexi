@@ -4,7 +4,9 @@ NLP领域任务
 
 [https://juejin.im/post/5d5bdb4951882536d218a237\#heading-1](https://juejin.im/post/5d5bdb4951882536d218a237#heading-1)
 
-**Word2Vec**
+## Word Embedding
+
+### **Word2Vec**
 
 \[NLP\] 秒懂词向量Word2vec的本质
 
@@ -76,7 +78,7 @@ No
 &#x7EA7;&#x522B;
 word-level](../.gitbook/assets/3%20%283%29.png)
 
-**BERT**
+### **BERT**
 
 工作方式跟ELMo是类似的，但ELMo的语言模型使用的是LSTM问题有两个：
 
@@ -106,7 +108,11 @@ sentence-level ](../.gitbook/assets/4%20%284%29.png)
 
 BERT：L=24，H=1024，A=16
 
-![Important](../.gitbook/assets/5%20%282%29.png) Transformer图解
+
+
+### Transformer
+
+Transformer图解
 
 [http://fancyerii.github.io/2019/03/09/transformer-illustrated/](http://fancyerii.github.io/2019/03/09/transformer-illustrated/)
 
@@ -118,7 +124,7 @@ Description automatically generated](../.gitbook/assets/6%20%282%29.png)
 
 Description automatically generated](../.gitbook/assets/7.png)
 
-**Attention**
+### **Attention**
 
 通过参数，来控制每一个词在语义向量中的权重，从而提升最终效果
 
@@ -163,9 +169,9 @@ attention各种形式总结 [link](https://blog.csdn.net/qq_41058526/article/det
 
 但是Self Attention在计算过程中会**直接**将句子中任意两个单词的联系通过一个计算步骤直接联系起来，所以远距离依赖特征之间的距离被极大缩短，有利于有效地利用这些特征。
 
-**RNN**
+## **RNN**
 
-如何深度理解RNN？
+### 如何深度理解RNN
 
 [https://zhuanlan.zhihu.com/p/45289691](https://zhuanlan.zhihu.com/p/45289691)
 
@@ -175,9 +181,7 @@ attention各种形式总结 [link](https://blog.csdn.net/qq_41058526/article/det
   * RNN具有时间展开的特点，这是由其输入决定的
   * 全连接网络对一个样本做一次forward，RNN对一个样本做多次forward
 
-![rnn\_arch](../.gitbook/assets/9%20%281%29.png)
-
-\[译\]理解 LSTM 网络
+### 理解 LSTM 网络
 
 [https://yugnaynehc.github.io/2017/01/03/understanding-lstm-networks/](https://yugnaynehc.github.io/2017/01/03/understanding-lstm-networks/)
 
@@ -195,7 +199,9 @@ LSTM的公式推导详解
 
 [https://blog.csdn.net/u010754290/article/details/47167979](https://blog.csdn.net/u010754290/article/details/47167979)
 
-**FastText**
+## Algorithms
+
+### **FastText**
 
 FastText算法原理解析（对比w2v）
 
@@ -211,7 +217,9 @@ fastText原理及实践
 
 缺点：模型可解释型不强，在调优模型的时候，很难根据训练的结果去针对性的调整具体的特征，因为在textCNN中没有类似gbdt模型中特征重要度\(feature importance\)的概念, 所以很难去评估每个特征的重要度。
 
-**TextCNN**
+
+
+### **TextCNN**
 
 ![Important](../.gitbook/assets/12%20%283%29.png) 文本分类算法TextCNN原理详解
 
