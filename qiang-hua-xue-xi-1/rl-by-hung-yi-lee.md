@@ -4,7 +4,7 @@ description: 李老师的强化学习课程笔记
 
 # RL by Hung-yi Lee
 
-### 基础知识
+### Basics
 
 #### Difficulties of Reinforcement Learning
 
