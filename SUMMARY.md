@@ -30,3 +30,7 @@
     * [10.2 Board相关题](leetcode/10.0-gao-pin-xi-lie-zhuan-ti/10.2-board-xiang-guan-ti.md)
     * [10.3 NSum及股票系列](leetcode/10.0-gao-pin-xi-lie-zhuan-ti/10.3-nsum-ji-gu-piao-xi-lie.md)
 
+## try
+
+* [Untitled](try/untitled.md)
+
