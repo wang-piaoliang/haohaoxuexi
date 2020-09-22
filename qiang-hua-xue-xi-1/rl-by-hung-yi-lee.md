@@ -4,14 +4,14 @@ description: 李老师的强化学习课程笔记
 
 # RL by Hung-yi Lee
 
-### Basics
+## Basics
 
-#### Difficulties of Reinforcement Learning
+### Difficulties of Reinforcement Learning
 
 1. Reward Delay
 2. Agent's action affect the subsequent data it receives
 
-#### **Learning Approches**
+### **Learning Approches**
 
 1. Policy-based: Learning an Actor
 2. Value-based: Leanring a Critic
@@ -19,27 +19,27 @@ description: 李老师的强化学习课程笔记
 
 EG: AlphaGo: Supervised Learning + Reinforcement Learning
 
-### Learning a Actor  
+## Learning a Actor  
 
-![](../.gitbook/assets/image%20%2812%29.png)
+![](../.gitbook/assets/image%20%2826%29.png)
 
-#### 1. NN As Actor
+### 1. NN As Actor
 
-![](https://raw.githubusercontent.com/wang-piaoliang/gitbookimagerepo/master/haohaoxuexi/image-20200921170045645.png)
+![](../.gitbook/assets/image%20%2835%29.png)
 
-![](https://raw.githubusercontent.com/wang-piaoliang/gitbookimagerepo/master/haohaoxuexi/image-20200921170410646.png)
+![](../.gitbook/assets/image%20%2829%29.png)
 
-#### 2. Goodness of Actor
+### 2. Goodness of Actor
 
-![](https://raw.githubusercontent.com/wang-piaoliang/gitbookimagerepo/master/haohaoxuexi/image-20200921170600541.png)
+![](../.gitbook/assets/image%20%2824%29.png)
 
-![](https://raw.githubusercontent.com/wang-piaoliang/gitbookimagerepo/master/haohaoxuexi/image-20200921170640392.png)
+![](../.gitbook/assets/image%20%2827%29.png)
 
-#### 3. Pick the best function
+### 3. Pick the best function
 
-![](https://raw.githubusercontent.com/wang-piaoliang/gitbookimagerepo/master/haohaoxuexi/image-20200921170723046.png)
+![](../.gitbook/assets/image%20%2828%29.png)
 
-### Learning a Critic
+## Learning a Critic
 
-![](https://raw.githubusercontent.com/wang-piaoliang/gitbookimagerepo/master/haohaoxuexi/image-20200921170749675.png)
+![](../.gitbook/assets/image%20%2832%29.png)
 
