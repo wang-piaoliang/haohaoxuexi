@@ -2,17 +2,17 @@
 
 ### **损失函数**
 
-![Important](../.gitbook/assets/0%20%284%29.png) 一文读懂机器学习常用损失函数（Loss Function）
+> 一文读懂机器学习常用损失函数（Loss Function） [⭐](https://www.cnblogs.com/guoyaohua/p/9217206.html)
+>
+> 深度学习中常用的损失函数loss有哪些 [👉](https://mlog.club/article/13958)
 
-[https://www.cnblogs.com/guoyaohua/p/9217206.html](https://www.cnblogs.com/guoyaohua/p/9217206.html)
 
-深度学习中常用的损失函数loss有哪些
-
-[https://mlog.club/article/13958](https://mlog.club/article/13958)
 
 回归：平方损失函数，绝对值损失函数
 
 分类： logloss\(lr\); **交叉熵损失**; 0-1损失函数；HingeLoss\(SVM\)
+
+
 
 #### **交叉熵损失函数**
 
