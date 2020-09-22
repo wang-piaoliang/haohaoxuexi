@@ -1,6 +1,6 @@
 # General
 
-**损失函数**
+### **损失函数**
 
 ![Important](../.gitbook/assets/0%20%284%29.png) 一文读懂机器学习常用损失函数（Loss Function）
 
@@ -14,7 +14,7 @@
 
 分类： logloss\(lr\); **交叉熵损失**; 0-1损失函数；HingeLoss\(SVM\)
 
-**交叉熵损失函数**
+#### **交叉熵损失函数**
 
 透彻理解交叉熵背后的直觉
 
@@ -48,7 +48,9 @@ Description automatically generated](../.gitbook/assets/1%20%282%29.png)
 
 [https://blog.csdn.net/zuolixiangfisher/article/details/88649110](https://blog.csdn.net/zuolixiangfisher/article/details/88649110)
 
-**激活函数**
+
+
+### **激活函数**
 
 激活函数应该具有哪些特征
 
@@ -60,7 +62,9 @@ Description automatically generated](../.gitbook/assets/1%20%282%29.png)
 
 [https://www.jiqizhixin.com/articles/2019-10-23](https://www.jiqizhixin.com/articles/2019-10-23)
 
-**梯度爆炸和消失解决办法**
+
+
+### **梯度爆炸和消失**
 
 预训练加微调
 
@@ -88,7 +92,9 @@ _From &lt;_[_https://blog.csdn.net/qq\_25737169/article/details/78847691_](https
 
 模型的层数越深，这种梯度弥散的情况就更加严重，导致浅层部分的网络权重参数得不到很好的训练，这就是为什么在Resnet出现之前，CNN网络都不超过二十几层的原因。
 
-**防止过拟合**
+
+
+### **过拟合问题**
 
 数据增强
 
@@ -104,7 +110,9 @@ Bagging: 每个分类器都随机从原样本中做有放回的采样，然后�
 
 Boosting : 它通过迭代地训练一系列的分类器，每个分类器采用的样本分布都和上一轮的学习结果有关。
 
-**样本不均衡的办法**
+
+
+### **样本不均衡**
 
 采样：上采样\(增多少样本的数据\)；下采样\(减少多样本的数据\)； 尝试人工产生数据
 
@@ -134,7 +142,9 @@ loss加权重 :少数类乘上一个大于1的系数
 
 欠拟合：增多数据特征数、添加高次多项式特征、减小正则化系数λ
 
-**Regularization**
+
+
+### **正则化**
 
 机器学习之L1和L2正则化
 
@@ -170,7 +180,9 @@ L1范数有棱角，和优化目标函数相切的点在各分量上要么有值
 
 L2范数比较平滑，喜欢每个分量上都分一点
 
-**优化算法**
+
+
+### **优化算法**
 
 批梯度下降会获得全局最优解，缺点是在更新每个参数的时候需要遍历所有的数据，计算量会很大，并且会有很多的冗余计算，导致的结果是当数据量大的时候，每个参数的更新都会很慢。
 
@@ -204,7 +216,9 @@ _From &lt;_[_https://zhuanlan.zhihu.com/p/32230623_](https://zhuanlan.zhihu.com/
 
 牛顿下降法利用了函数的更多的信息，能够更好的拟合局部曲面，所以收敛的速度也会加快。
 
-**BatchNorm**
+
+
+### **BatchNorm**
 
 BatchNorm就是在深度神经网络训练过程中使得每一层神经网络的输入保持相同分布的。
 
@@ -240,7 +254,9 @@ ReLU函数进行Batch Normalization意义分析
 
 [https://blog.csdn.net/cuiy0818/article/details/81261407](https://blog.csdn.net/cuiy0818/article/details/81261407)
 
-**欧氏距离和余弦相似度**
+
+
+### **欧氏距离和余弦相似度**
 
 [https://blog.csdn.net/linvo/article/details/9333019](https://blog.csdn.net/linvo/article/details/9333019)
 
@@ -254,7 +270,9 @@ ReLU函数进行Batch Normalization意义分析
 
 **余弦距离**更多的是从**方向上区分差异**，而对绝对的数值不敏感，更多的用于使用用户对内容评分来区分兴趣的相似度和差异，同时修正了用户间可能存在的度量标准不统一的问题（因为余弦距离对绝对数值不敏感）
 
-**机器学习算法的应用场景**
+
+
+### **机器学习算法的应用场景**
 
 [https://www.zhihu.com/question/26726794](https://www.zhihu.com/question/26726794)
 
