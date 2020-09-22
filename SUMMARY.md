@@ -8,7 +8,7 @@
 
 ## 👵 深度学习
 
-* [Untitled](shen-du-xue-xi/untitled.md)
+* [ML](shen-du-xue-xi/untitled.md)
 
 ## 🛒 大数据与分布式 <a id="data"></a>
 
